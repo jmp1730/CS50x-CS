@@ -1,4 +1,4 @@
-# CS50x
+# Harvard University CS50x
 CS50's Introduction to Computer Science
 
 
