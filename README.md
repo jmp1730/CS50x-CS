@@ -1,5 +1,4 @@
-# Harvard University CS50x
-CS50's Introduction to Computer Science
+# Harvard University CS50x's Introduction to Computer Science
 
 https://cs50.harvard.edu/x/2021/
 
